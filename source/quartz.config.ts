@@ -15,7 +15,7 @@ const config: QuartzConfig = {
     analytics: {
       provider: "plausible",
     },
-    locale: "en-UK",
+    locale: "en-GB",
     baseUrl: "levalmaster-official.github.io/chemistry-a-level-notes",
     ignorePatterns: ["private", "templates", ".obsidian"],
     defaultDateType: "created",
