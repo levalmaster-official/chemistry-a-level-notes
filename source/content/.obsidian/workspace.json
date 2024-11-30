@@ -27,12 +27,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "category-folder/Some note.md",
+                "file": "4 - Y1 Organic and analytical chemistry/4A - Alkanes/(2) Representing organic molecules.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Some note"
+              "title": "(2) Representing organic molecules"
             }
           }
         ],
@@ -180,14 +180,17 @@
   },
   "active": "2d8837e6263008e3",
   "lastOpenFiles": [
+    "4 - Y1 Organic and analytical chemistry/4A - Alkanes/(4) Structural Isomerism.md",
     "OCR A Chemistry Specification.md",
+    "index.md",
+    "category-folder/index.md",
+    "category-folder/Some note.md",
     "6 - Y2 Organic and analytical chemistry",
     "5 - Y2 Inorganic and physical chemistry",
     "4 - Y1 Organic and analytical chemistry/4A - Alkanes/Images/Pasted image 20241128152848.png",
     "4 - Y1 Organic and analytical chemistry/4A - Alkanes/Images/Pasted image 20241128152055.png",
     "4 - Y1 Organic and analytical chemistry/4A - Alkanes/Images",
     "4 - Y1 Organic and analytical chemistry/4A - Alkanes/(5) Alkanes.md",
-    "4 - Y1 Organic and analytical chemistry/4A - Alkanes/(4) Structural Isomerism.md",
     "4 - Y1 Organic and analytical chemistry/4A - Alkanes/(3) Functional groups.md",
     "4 - Y1 Organic and analytical chemistry/4A - Alkanes/(2) Representing organic molecules.md",
     "4 - Y1 Organic and analytical chemistry/4A - Alkanes/(1) Naming organic molecules.md",
@@ -206,9 +209,6 @@
     "2 - Foundations in Chemistry/2A - Atomic and Redox/(1) Atomic masses.md",
     "2 - Foundations in Chemistry/2C - Quantitative chemistry",
     "2 - Foundations in Chemistry/2D - Bonding and structure",
-    "2 - Foundations in Chemistry/2B - Acids, bases and salts",
-    "category-folder/index.md",
-    "index.md",
-    "category-folder/Some note.md"
+    "2 - Foundations in Chemistry/2B - Acids, bases and salts"
   ]
 }
