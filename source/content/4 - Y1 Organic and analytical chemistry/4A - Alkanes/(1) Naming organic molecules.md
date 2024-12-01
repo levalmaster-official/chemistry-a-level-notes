@@ -1,3 +1,4 @@
+Specification reference: [[OCR A Chemistry Specification]]
 #### Naming alkanes
 2. Identify the longest continuous (parent chain) and name it just like you would a straight chain alkane
 3. Identify any side groups in using the prefixes methyl (1 carbon), ethyl (2 carbons), propyl (3 carbons)

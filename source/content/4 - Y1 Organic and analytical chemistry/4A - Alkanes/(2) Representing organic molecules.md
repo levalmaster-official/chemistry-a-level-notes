@@ -1,3 +1,4 @@
+Specification reference: [[OCR A Chemistry Specification]]
 #### Types of formulae
 The structure of an organic molecule can be represented with different types of **formulae**
 ##### General formulae
