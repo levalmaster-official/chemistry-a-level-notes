@@ -1,1 +1,0 @@
-Specification reference: [[OCR A Chemistry Specification]]
