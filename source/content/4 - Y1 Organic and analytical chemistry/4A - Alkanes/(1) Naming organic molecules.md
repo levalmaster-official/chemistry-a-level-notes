@@ -25,33 +25,46 @@ Alcohols (-OH)
 - Named using the suffix "ol"
 - The number of ol is always as low as possible
 - Below is butan-1-ol
+
 ![[Pasted image 20241203104027.png|150]]
+
 Haloalkanes
 - Named using the prefixes "fluro", "chloro", "bromo" or "iodo"
 - Below is 2-bromobutane
+
 ![[Pasted image 20241203104046.png|100]]
+
 
 Alkane (-C=C-)
 - Named using the suffix "ene"
 - Below is but-2-ene
+
 ![[Pasted image 20241203104133.png||125]]
+
 
 Aldehyde (-CHO)
 - Named using the suffix "al"
 - Below is propanal
+
 ![[Pasted image 20241203104151.png|125]]
+
 
 Ketone (-C(=O)-)
 - Named using the suffix "one"
 - Below is propanone
+
 ![[Pasted image 20241203104212.png|75]]
+
 
 Carboxylic acid (-COOH)
 - Named using the suffix "oic acid"
 - Below is propanoic acid
+
 ![[Pasted image 20241203104234.png|100]]
+
 
 Amine (-NH2)
 - Named using the prefix "amino"
 - Below is 1-aminobutane
+
 ![[Pasted image 20241203104247.png|150]]
