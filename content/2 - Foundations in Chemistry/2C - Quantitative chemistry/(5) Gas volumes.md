@@ -25,7 +25,7 @@ pV &= k \times nT, \quad \text{where k is a constant}
 \end{aligned}
 $$
 
-$k$ is in fact the ideal gas constant, $R$, which is equal to $8.314$ and its units are  $\text{J mol}^{-1}\text{ K}^{-1}$
+Instead of $k$, we use the ideal gas constant, $R$, which is equal to $8.314$ and its units are  $\text{J mol}^{-1}\text{ K}^{-1}$
 ##### Ideal gas equation
 The relationship between:
 - Volume of gas ($V$) in $m^3$
