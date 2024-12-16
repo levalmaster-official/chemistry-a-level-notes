@@ -1,6 +1,8 @@
 #### First ionisation energy
 - First ionisation energy - the amount of energy required to remove 1 mol of electrons from 1 mol of gaseous atoms of an element (to produce 1 mol of gaseous ions with a charge of 1+)
-$$\ce{X_{(g)} -> X+_{(g)} + e-}$$
+$$
+\ce{X_{(g)} -> X+_{(g)} + e-}
+$$
 #### Successive ionisation energies
 - Elements can have as many ionisation energies as they have multiple electrons.
 - They always involve removing 1 electron from 1 mol of gaseous ions to increase their charge by 1.

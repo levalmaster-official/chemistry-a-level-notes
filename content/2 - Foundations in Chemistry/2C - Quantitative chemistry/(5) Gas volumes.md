@@ -35,7 +35,9 @@ The relationship between:
 - Temperature ($T$) in $K$ (equal to **degrees Celsius + 273**)
 
 is expressed in the **ideal gas equation**:
- $$pV = nRT$$
+ $$
+ pV = nRT
+ $$
  
 > [!QUESTION]+ Why is it known as the *ideal* gas law?
 > The ideal gas law makes a set of assumptions about gases which may not be true in the real world. Therefore the values produced by the equation are for an *ideal*, calculated gas.

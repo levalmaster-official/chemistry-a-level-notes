@@ -23,6 +23,10 @@ Mole - the amount of substance containing as many particles as there are carbon 
 - The molar mass of a substance is equal to its $A_r$ or $M_r$ 
 - This relationship is expressed by the following equation:
 
-$$\text{Moles (mol)} = \frac{\text{ mass (g) }}{\text{ molar mass (gmol}^{-1})}$$
+$$
+\text{Moles (mol)} = \frac{\text{ mass (g) }}{\text{ molar mass (gmol}^{-1})}
+$$
 
-$$n = \frac{m}{M_r}$$
+$$
+n = \frac{m}{M_r}
+$$

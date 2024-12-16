@@ -8,7 +8,9 @@ Specification reference: [[OCR A Chemistry Specification#2.1.1 Atomic structure 
 - Relative atomic mass ($A_r$) - the weighted mean mass of an atom of an element compared with one twelfth of the mass of an atom of carbon-12
 	- This is not the same as 'mass number' (the number of protons and neutrons in the nucleus, which will always be a whole number)
 	- The data needed to calculate relative atomic mass comes from [[#Mass spectrometry]]
-$$\text{Relative atomic mass} = \frac{\Sigma \text{(isotope abundance}\times\text{isotopic mass number)}}{\Sigma\text{(Isotope abundance)}}$$
+$$
+\text{Relative atomic mass} = \frac{\Sigma \text{(isotope abundance}\times\text{isotopic mass number)}}{\Sigma\text{(Isotope abundance)}}
+$$
 - Relative atomic mass can be used to calculate masses for more complex particles/structures, by adding up to $A_r$ of every atom in one molecule (for simple molecules) or one formula unit (for giant structures)
 
 #### Mass spectrometry

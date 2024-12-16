@@ -33,11 +33,15 @@ However, if the activation energy can be overcome, alkanes can react in a limite
 In a plentiful supply of oxygen, alkanes burn cleanly producing a blue flame. All the carbon atoms are oxidised to carbon dioxide, and all the hydrogen to water. This is known as **complete combustion**.
 
 For example, the combustion of ethane:
-$$\ce{C2H6 + 3 \frac{1}{2}O2 -> 2CO2 + 3H2O}$$
+$$
+\ce{C2H6 + 3 \frac{1}{2}O2 -> 2CO2 + 3H2O}
+$$
 If the supply of oxygen is limited, a yellow flame is seen, Instead of carbon dioxide, the carbon may form carbon monoxide, or carbon (soot). All the hydrogen atoms still oxidise to water. This is known as **incomplete combustion**.
 
 For example, the combustion of ethane to form carbon monoxide:
-$$\ce{C2H6 + 2 \frac{1}{2} O2 -> 2CO + 3H2O}$$
+$$
+\ce{C2H6 + 2 \frac{1}{2} O2 -> 2CO + 3H2O}
+$$
 ###### Problems with incomplete combustion
 1. Both carbon monoxide and particulate carbon (soot) are dangerous to human health
 2. Carbon monoxide is **toxic** - it binds tightly to haemoglobin instead of oxygen, preventing oxygen from being transported in the blood to respiring tissues

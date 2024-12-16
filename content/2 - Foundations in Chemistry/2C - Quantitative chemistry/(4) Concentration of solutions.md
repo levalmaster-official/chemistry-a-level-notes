@@ -17,7 +17,9 @@ For aqueous solutions we often use a very specific definition:
 
 Chemists use $[...]$ to indicate concentration, e.g. $\ce{[H+]}$ = “the concentration of hydrogen ions
 
-$$\text{Concentration (moldm}^{-3}) = \frac{\text{moles of solute (mol)}}{\text{volume of solution (dm}^3)}$$
+$$
+\text{Concentration (moldm}^{-3}) = \frac{\text{moles of solute (mol)}}{\text{volume of solution (dm}^3)}
+$$
 #### Terminology of solutions
 - Weak - a solution in which a dissolved molecule partially dissociates to form dissolved ions
 - Strong - a solution in which a dissolved molecule fully dissociates to form dissolved ions
