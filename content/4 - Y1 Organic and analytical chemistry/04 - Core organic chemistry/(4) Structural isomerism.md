@@ -1,4 +1,4 @@
-Specification reference: [[OCR A Chemistry Specification]]
+Specification reference: [[OCR A Chemistry Specification#Isomerism|Isomerism]]
 
 #### Structural isomers
 

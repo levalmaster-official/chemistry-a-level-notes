@@ -1,4 +1,4 @@
-Specification reference: [[OCR A Chemistry Specification]]
+Specification reference: [[OCR A Chemistry Specification#Naming and representing the formulae of organic compounds|4.1.1 Basic concepts of organic chemistry]]
 
 #### Naming alkanes
 2. Identify the longest continuous (parent chain) and name it just like you would a straight chain alkane

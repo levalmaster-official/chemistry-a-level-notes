@@ -1,3 +1,4 @@
+Specification reference: [[OCR A Chemistry Specification#Functional groups|Functional groups]]
 #### Homologous series
 Many organic molecules contain specifically arranged sets of atoms known as **functional groups**.
 

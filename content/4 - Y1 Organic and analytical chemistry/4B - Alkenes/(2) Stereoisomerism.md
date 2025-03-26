@@ -1,3 +1,5 @@
+Specification reference: [[OCR A Chemistry Specification#Stereoisomerism in alkenes|Stereoisomerism in alkenes]]
+
 In alkenes, the restricted rotation around the $\pi$-bond can cause the molecule to have two different isomers. These are stereoisomers.
 
 >[!QUOTE] Stereoisomerism describes molecules with the same structural formula, but a different arrangement of atoms in 3D space.
