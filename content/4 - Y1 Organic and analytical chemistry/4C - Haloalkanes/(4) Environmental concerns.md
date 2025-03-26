@@ -14,12 +14,16 @@ Chlorofluorocarbons (CFCs) are molecules made up of only chlorine, fluorine and 
 
 In the stratosphere, the UV radiation is high enough energy to break $\ce{C-Cl}$ bonds [[(5) Reaction mechanisms#Homolytic fission|homolytically]], making chlorine radicals. Chlorine radicals pose a significantly hazard as they catalyse the breakdown of ozone.
 
-$$\begin{aligned}
-\ce{Initiation: CF_{2}Cl_{2} -> CF_{2}Cl^{.} + ^{.}Cl}\\[3mm]
-\ce{Propagation: Cl + O_{3} -> ^{.}ClO + O_{2}} \\[3mm]
-\ce{ClO + O -> ^{.}Cl + O_{2}} \\[3mm]
------------------ \\[3mm]
+$$
+\ce{Initiation: CF_{2}Cl_{2} -> CF_{2}Cl^{.} + ^{.}Cl}
+$$
+$$
+\ce{Propagation: Cl + O_{3} -> ^{.}ClO + O_{2}}
+$$
+$$
+\ce{ClO + O -> ^{.}Cl + O_{2}}
+$$
+$$
 \ce{Overall: O_{3} + O -> 2O_{2}}
-\end{aligned}
 $$
 To avoid this, we now use HCFCs, where the $\ce{C-H}$ bond is weak enough to break before the molecules reach the stratosphere.
