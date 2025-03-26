@@ -1,3 +1,4 @@
+Specification reference: [[OCR A Chemistry Specification#Redox reactions and reactivity of halogens and their compounds|Redox reactions and reactivity of halogens and their compounds]], [[OCR A Chemistry Specification#Characteristic reactions of halide ions|Characteristic reactions of halide ions]]
 #### Reactions of halogens
 Halogens have a $\ce{s^{2}p^5}$ electron configuration. They gain one electron in many redox reactions to form 1- ions. 
 #### Appearance of the halogens in solution

@@ -1,3 +1,5 @@
+Specification reference: [[OCR A Chemistry Specification#Characteristic physical properties|Characteristic physical properties of the halogens]]
+
 Elements in group VII are referred to halogens. They are **diatomic** molecules.
 #### Trend in boiling points
 At room temperature, $\ce{Cl2}$ is a green gas, $\ce{Br2}$ is a brown liquid, and $\ce{I2}$ is a grey solid (which sublimates to form a purple gas).
@@ -15,7 +17,7 @@ The atomic radii of the halogens increase down the group. This is because the at
 
 ![[Pasted image 20250121104251.png|400]]
 #### Trend in electronegativity
-Electronegativity is the measure of the attraction of an atom for the bonded pair of electrons in a covalent bond.
+[[(4) Electronegativity|Electronegativity]] is the measure of the attraction of an atom for the bonded pair of electrons in a covalent bond.
 
 The electronegativity of the halogens decrease down the groups. This is because the atoms further down the group:
 - Have more electron shells
